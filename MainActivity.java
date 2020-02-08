@@ -1,4 +1,4 @@
-package com.example.labone;
+package com.example.textattr;
 
 import androidx.appcompat.app.AppCompatActivity;
 
